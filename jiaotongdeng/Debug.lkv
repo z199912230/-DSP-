@@ -1,0 +1,6 @@
+-z -q -c -m"./Debug/DEC5502_FLASH.map" -o"./Debug/DEC5502_IO.out" -stack800 -sysstack800 -w -x -i"c:/ti/c5500/bios/lib" -i"c:/ti/c5500/rtdx/lib" -i"c:/ti/c5500/xdais/lib" -i"c:/ti/c5500/cgtools/lib"
+"E:\study\program and files\EPD-CCS-IO\Debug\5502_IO.obj"
+"E:\study\program and files\EPD-CCS-IO\Debug\emif.obj"
+"E:\study\program and files\EPD-CCS-IO\lib\csl5502x.lib"
+"E:\study\program and files\EPD-CCS-IO\lib\rts55x.lib"
+"E:\study\program and files\EPD-CCS-IO\SEED_DEC5502.cmd"

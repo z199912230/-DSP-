@@ -1,0 +1,6 @@
+-z -q -c -m"./Debug/DEC5502_FLASH.map" -o"./Debug/DEC5502_IO.out" -stack800 -sysstack800 -w -x -i"C:/CCStudio_v3.3/C5500/csl/lib" -i"C:/CCStudio_v3.3/C5500/xdais/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/bios/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/rtdx/lib/c5500" -i"C:/CCStudio_v3.3/C5500/cgtools/lib"
+"E:\chenhongni\Debug\5502_IO.obj"
+"E:\chenhongni\Debug\emif.obj"
+"E:\chenhongni\lib\csl5502x.lib"
+"E:\chenhongni\lib\rts55x.lib"
+"E:\chenhongni\SEED_DEC5502.cmd"
